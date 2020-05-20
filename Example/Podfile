@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'Genesis_Example' do
+  pod 'Genesis', :path => '../'
+
+  target 'Genesis_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
