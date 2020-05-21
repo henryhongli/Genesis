@@ -1,0 +1,6 @@
+framework module Genesis {
+  umbrella header "Genesis-umbrella.h"
+
+  export *
+  module * { export * }
+}

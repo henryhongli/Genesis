@@ -1,0 +1,16 @@
+PODS:
+  - Genesis (0.1.0)
+
+DEPENDENCIES:
+  - Genesis (from `../`)
+
+EXTERNAL SOURCES:
+  Genesis:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Genesis: 04af6d266b7b7e019bd23ef81b69dc33f03ac66f
+
+PODFILE CHECKSUM: b638b3e71e038ff0b2ebc288150d78580d712ca8
+
+COCOAPODS: 1.9.1
